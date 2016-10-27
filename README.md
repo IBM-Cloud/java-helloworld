@@ -35,10 +35,10 @@ Use the following steps to run the application with Maven:
     $ mvn liberty:run-server
     ```
 
-Once the server is running, the application will be available under [http://localhost:9080/JavaHelloWorldApp](http://localhost:9080/JavaHelloWorldApp).
+    Once the server is running, the application will be available under [http://localhost:9080/JavaHelloWorldApp](http://localhost:9080/JavaHelloWorldApp).
 
 
-3. To push the application to Bluemix using the cf command line tool:
+3. To **push the application to Bluemix** using the cf command line tool:
     ```bash
     $ cf push <appname> -p target/JavaHelloWorldApp.war
     ```
