@@ -43,7 +43,7 @@ Use the following command to run the built application in Bluemix:
     ```
 ## Liberty App Accelerator
 
-Select technologies and construct a starter application using the Liberty App Accelerator at [wasdev.net/accelerate](wasdev.net/accelerate)
+Select technologies and generate a starter application using the Liberty App Accelerator at [wasdev.net/accelerate](wasdev.net/accelerate)
 
 # Notice
 
