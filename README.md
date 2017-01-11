@@ -41,6 +41,9 @@ Use the following command to run the built application in Bluemix:
     ```bash
     $ cf push <appname> -p target/JavaHelloWorldApp.war
     ```
+## Liberty App Accelerator
+
+Select technologies and construct a starter application using the Liberty App Accelerator at [wasdev.net/accelerate](wasdev.net/accelerate)
 
 # Notice
 
