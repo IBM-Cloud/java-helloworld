@@ -59,6 +59,9 @@ IBM® Eclipse Tools for Bluemix® provides plug-ins that can be installed into a
   - A wizard will guide you with the deployment options. Be sure to choose a unique `Name` for your application
   - In a few minutes, your application should be running at the URL you chose.
 
+## Next Step
+Ready to learn how to interact with a database? Check out this [Sample and tutorial](https://github.com/IBM-Bluemix/get-started-java) to help you get started with a Java EE app, REST API and a database.
+
 ## Liberty App Accelerator
 
 For help generating other Liberty samples checkout the Liberty App Accelerator at [wasdev.net/accelerate](http://wasdev.net/accelerate)
